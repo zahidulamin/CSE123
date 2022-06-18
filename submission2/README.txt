@@ -1,21 +1,21 @@
 Link to unlisted youtube video:
-https://youtube.com/.....
+https://www.youtube.com/watch?v=qJHm3CXC_TE
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1jmYpZ6lgx2WvCslSrKtBajHtqYMS7m38bmaA6svZjds/edit?usp=sharing
 
 Paper title:
-NLP using ANN
+Sentiment-based Candidate Selection For NMT
 
 Link to the paper:
-https://ieeexplore......
+
 
 Group Number:
-0
+5
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+21266013 Moumita Khandaker  
+20266011 Debalina Barua 
+20266025 Mumtahina Ahsan 
+21166019 Hasan Muhammed Zahid Amin 
+
